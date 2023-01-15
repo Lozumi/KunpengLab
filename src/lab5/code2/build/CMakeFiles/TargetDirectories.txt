@@ -1,0 +1,5 @@
+/mnt/e/cs_proj/proj/kunpenglab/src/lab5/code2/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/cs_proj/proj/kunpenglab/src/lab5/code2/build/CMakeFiles/edit_cache.dir
+/mnt/e/cs_proj/proj/kunpenglab/src/lab5/code2/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/e/cs_proj/proj/kunpenglab/src/lab5/code2/build/src/CMakeFiles/edit_cache.dir
+/mnt/e/cs_proj/proj/kunpenglab/src/lab5/code2/build/src/CMakeFiles/main.dir
